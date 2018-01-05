@@ -6,3 +6,4 @@ Uses Next Meeting by Nathan Spindel as Inspiration
 https://github.com/imagine/nextmeeting
 
 ## Screenshot
+<img src="https://github.com/tjwells47/gnome-next-meeting/blob/master/SCREENSHOT.png?raw=true">
